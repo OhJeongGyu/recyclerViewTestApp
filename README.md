@@ -1,2 +1,2 @@
-recyclerview android app
+recyclerview android application
 
