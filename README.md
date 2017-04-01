@@ -1,2 +1,1 @@
-recyclerview
-test app
+recyclerview test
