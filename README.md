@@ -1,2 +1,1 @@
-recyclerview android app
-
+this repository is recyclerview test app
