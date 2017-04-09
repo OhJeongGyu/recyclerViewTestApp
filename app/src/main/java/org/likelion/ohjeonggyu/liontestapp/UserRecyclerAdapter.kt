@@ -34,7 +34,7 @@ class UserRecyclerAdapter(private var context: Context) : RecyclerView.Adapter<U
         val user = itemList[position]
         holder?.apply {
             Glide.with(context)
-                    .load(user.image)
+                    .load(user.image) //url
                     .centerCrop()
                     .into(holder.imageView)
             nameTextView.text = user.name

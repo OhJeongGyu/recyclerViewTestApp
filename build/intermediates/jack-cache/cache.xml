@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.1/e3be78b463658ae5a8c8b446b811671998c91f5/kotlin-stdlib-jre7-1.1.1.jar"
+        revision="25.0.2"
+        sha1="0e3be78b463658ae5a8c8b446b811671998c91f5">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/kotlin-stdlib-jre7-1.1.1-7349a9aa06c3b53f69116d32a334a919598768e0.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/c91719bef8db6d32a521ea1ce79a4e38d72d1ede/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2e1762bb1bef6c2a7b88a0e3fb63ddf2ba66ea0f.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.11.0-8e129b42c231d0cf09101723fffc28bc3f41eafc.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/reactive-streams-1.0.0-bb47fbdfac4bb48166fd8890b4664aba39d26892.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/b67dbd88d84256756791112bf630c4408419f5ad/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-177ccbe26bae005a9a0ce668b535dcb18dfff94b.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/f89404efed8091e91bbc39c34ac78e96af5bbedc/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f345d81a5fe254a877c04f65989d7d9cc924f143.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-beta4-bbf1b146e2dd27156242d4ddd71f91ceffdb7636.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.6.0-54bca7deba4c82b6f771a8e8d7ecc2af94afb38a.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/8bf73b9e7cf29282740cb7a59fc8c87e155358d3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e91990297032f4faf44bb368850f43beb31a91c0.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/glide-3.7.0-51f1f62064f4bb556e71e5c30037090f3fc6f7c3.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/ab468d3fd4df78f7d4beaaf4a7455d1dde31a007/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-98543b7121f6c44443c543ce5cdf3cf30898a823.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/ba634b40671a5558f3a2b2ed05a4c7be0d23944c/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ab1e1c7dda6f550d3fc29f30f1f0b92dfd8de310.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/a28a4c7b2ce97866da5a5d37f0dcad67a432e231/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-00af893b4f5b0e90fa6e01fa1f81fab6bd464ebc.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/2fa4cc357c3218c874c45e5079a65f328b111078/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-45d37409b630e9085436c43cab80a73b475f7ee4.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/843da952a1802473c2cb8a31965b7419737809e7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d2bf655ee9687be24824dfd9d6a88721063a3f54.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/annotations-13.0-a20da58c832cfb1445bb877319e2d5f557472dcf.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/eea582645eb5c3e7f46770dce3e3bf3fcb20fd9e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a2a2ad552bfa6f04c9a956990adf5b6a42fa4689.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        revision="25.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-2.0.1-036b4feecf28d467b376c468709d3fba0ab97ca8.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.7-642e7938daa33693abf03501f595b9c0a0ffc8c2.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/758ae21d1f8012728d6aeb929cd6ee3beb84424d/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2e7799b95f184e4dedc1851f9cf47aa92b13365e.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c/adapter-rxjava2-2.2.0.jar"
+        revision="25.0.2"
+        sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/adapter-rxjava2-2.2.0-d41d3e556c07ae2e461f840018a83ca37b0f2132.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/2718ae66870317539eadf57a817827b582c480a3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-87c982ed8719729a53cb9da34eeef8a8dab70c54.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/2006f13d2e173e56ca0ac616bf68de23ef400c5a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5875fb670ddab3b5dd3316fe15d6a50dd455b9d4.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.2.0-6103c7cab1e4a6fca37753653101c77a9c4faa77.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.2.0-5e7f62f4efde61cabd808ed0a801d6f5168c12b3.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.2.0-c288d95175765795145ea94f977d618027e06d69.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.android/build-cache/d3c240a57c25c8de1f397b5ffcbe3304e214a7e1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-546b5bb60dd33fff44c50c2c6f346a5ed01475f0.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-840bebdd68b5a1fa53b75abd6f7e6e5a3ccdcb4e.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.1/98e484e67f913e934559f7f55f0c94be5593f03c/kotlin-stdlib-1.1.1.jar"
+        revision="25.0.2"
+        sha1="98e484e67f913e934559f7f55f0c94be5593f03c">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/kotlin-stdlib-1.1.1-fb70fd98ffff6ee7982f0a59d6709d482e84cd6d.jar" />
+    </item>
+    <item
+        jar="/Users/ohjeonggyu/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/ohjeonggyu/liontestApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-112cd44dfcaef9a1228a0d5d3454d81793fb7159.jar" />
+    </item>
+
+</items>
