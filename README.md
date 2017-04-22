@@ -1,1 +1,1 @@
-this repository is recyclerview test app
+this repository is recyclerview test app.
